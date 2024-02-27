@@ -215,7 +215,7 @@ body {
   background-color: var(--primary-color);
 }
 .section-about .info h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   max-width: 25rem;
 }
 .section-about .info p {
@@ -241,7 +241,7 @@ body {
 .section-about .container-counter div {
   background-color: var(--neutral-color);
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.2rem;
   padding: 1rem 0.5rem;
   border-radius: 10px;
   color: var(--primary-color);
